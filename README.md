@@ -6,7 +6,7 @@
 
 ---
 
-### Find me here:
+## Find me here:
 <a href="https://kamilplhh.smallhost.pl">
     <img align="left" alt="Visual Studio Code" width="26px" src="./img/web.svg" style="padding-right:10px; color:white;" />
 </a>
@@ -16,13 +16,15 @@
 <a href="https://www.instagram.com/kamil_plhh/">
     <img align="left" alt="Visual Studio Code" width="26px" src="./img/instagram.svg" style="padding-right:10px;" />
 </a>
+<br>
 
-### Technologies that I use
+## Technologies that I use:
 <img align="left" alt="Visual Studio Code" width="26px" src="./img/html5.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="./img/css3.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="./img/laravel.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="./img/react.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="./img/vuejs.svg" style="padding-right:10px;" />
+<br>
 
 All icons are from fontawesome, go get some 🙈
 
