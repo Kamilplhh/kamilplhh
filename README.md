@@ -5,7 +5,9 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kamilplhh&theme=synthwave&hide_border=true&card_width=480)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats">
+  <img height=200 align="center" src="https://streak-stats.demolab.com?user=kamilplhh&theme=synthwave&hide_border=true&card_width=480 />
+</a>
 
 ---
 
