@@ -16,7 +16,7 @@ All icons are from fontawesome, go get some 🙈
 
 ---
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img height=200 src="https://streak-stats.demolab.com?user=kamilplhh&theme=synthwave&hide_border=true&card_width=360" />
+  <img height=200 align="center" src="https://streak-stats.demolab.com?user=kamilplhh&theme=synthwave&hide_border=true&card_width=360" />
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
