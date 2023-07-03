@@ -7,11 +7,15 @@
 ---
 
 ### Find me here:
-[![website](./img/web.svg)](https://kamilplhh.smallhost.pl)
-&nbsp;
-[![website](./img/linkedin.svg)](https://www.linkedin.com/in/kamil-czekotas-746684277/)
-&nbsp;
-[![website](./img/instagram.svg)](https://www.instagram.com/kamil_plhh/)
+<a href="https://kamilplhh.smallhost.pl">
+    <img align="left" alt="Visual Studio Code" width="26px" src="./img/web.svg" style="padding-right:10px; color:white;" />]
+</a>
+<a href="https://www.linkedin.com/in/kamil-czekotas-746684277/">
+    <img align="left" alt="Visual Studio Code" width="26px" src="./img/linkedin.svg" style="padding-right:10px;" />
+</a>
+<a href="https://www.instagram.com/kamil_plhh/">
+    <img align="left" alt="Visual Studio Code" width="26px" src="./img/instagram.svg" style="padding-right:10px;" />
+</a>
 
 ### Technologies that I use
 
