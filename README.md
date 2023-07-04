@@ -4,8 +4,6 @@
   <h1>Hi 👉👈</h1><br>
 </div>
 
----
-
 <h2 align="center">
   “Always dream and shoot higher than you know you can do. Do not bother just to be better than your contemporaries or predecessors. Try to be better than yourself.”
   <br> ~William Faulkner
@@ -24,17 +22,17 @@
 <br>
 
 ## Technologies that I use:
-<div>
+<div style="margin-bottom:20px;">
   <img align="left" alt="html5" width="26px" height="26px" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" style="padding-right:10px;" />
-  <img align="left" alt="Visual Studio Code" width="26px" height="26px" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" style="padding-right:10px;" />
-  <img align="left" alt="Visual Studio Code" width="26px" height="26px" src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor" style="padding-right:10px;" />
-  <img align="left" alt="Visual Studio Code" width="26px" height="26px" src="https://icongr.am/devicon/jquery-original.svg?size=128&color=currentColor" style="padding-right:10px;" />
-  <img align="left" alt="Visual Studio Code" width="26px" height="26px" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" style="padding-right:10px;" />
-  <img align="left" alt="Visual Studio Code" width="26px" height="26px" src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor" style="padding-right:10px;" />
-  <img align="left" alt="Visual Studio Code" width="26px" height="26px" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" style="padding-right:10px;" />
-  <img align="left" alt="Visual Studio Code" width="26px" height="26px" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor" style="padding-right:10px;" />
-  <img align="left" alt="Visual Studio Code" width="26px" height="26px" src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor" style="padding-right:10px;" />
-  <img align="left" alt="Visual Studio Code" width="26px" height="26px" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" style="padding-right:10px;" />
+  <img align="left" alt="css3" width="26px" height="26px" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" style="padding-right:10px;" />
+  <img align="left" alt="docker" width="26px" height="26px" src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor" style="padding-right:10px;" />
+  <img align="left" alt="jquery" width="26px" height="26px" src="https://icongr.am/devicon/jquery-original.svg?size=128&color=currentColor" style="padding-right:10px;" />
+  <img align="left" alt="js" width="26px" height="26px" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" style="padding-right:10px;" />
+  <img align="left" alt="react" width="26px" height="26px" src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor" style="padding-right:10px;" />
+  <img align="left" alt="vue" width="26px" height="26px" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" style="padding-right:10px;" />
+  <img align="left" alt="php" width="26px" height="26px" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor" style="padding-right:10px;" />
+  <img align="left" alt="postgres" width="26px" height="26px" src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor" style="padding-right:10px;" />
+  <img align="left" alt="mysql" width="26px" height="26px" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" style="padding-right:10px;" />
 </div>
 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
