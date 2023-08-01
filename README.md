@@ -19,6 +19,7 @@
 <a href="https://codepen.io/kamilplhh/pens/showcase">
     <img align="left" alt="codepen_profile" width="26px" height="26px" src="https://img.icons8.com/ios-filled/50/codepen.png" style="padding-right:10px;" />
 </a>
+
 [![website](./img/instagram-light.svg)](https://www.instagram.com/kamil_plhh#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/kamil_plhh#gh-dark-mode-only)
 <br>
